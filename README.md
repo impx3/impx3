@@ -19,14 +19,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 
-Contributions:
-
-https://github.com/pramudithamendis/Xpress-Hirely - Payment management
-
-https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
-
-https://github.com/shashithenuwara/FDM-MINI_project - User Interface
-
  📔 **GitHub Stats:**
 
 <br>
@@ -40,3 +32,10 @@ https://github.com/shashithenuwara/FDM-MINI_project - User Interface
 </p>
 </details>
 
+👍**Contributions:**
+
+https://github.com/pramudithamendis/Xpress-Hirely - Payment management
+
+https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
+
+https://github.com/shashithenuwara/FDM-MINI_project - User Interface
