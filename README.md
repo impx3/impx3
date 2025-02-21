@@ -27,9 +27,8 @@ https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
 
 https://github.com/shashithenuwara/FDM-MINI_project - User Interface
 
-<summary>
  📔 **GitHub Stats:**
-</summary>
+
 <br>
 <p align="center">
   <a href="https://github.com/impx3">
