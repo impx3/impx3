@@ -26,3 +26,11 @@ https://github.com/pramudithamendis/Xpress-Hirely - Payment management
 https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
 
 https://github.com/shashithenuwara/FDM-MINI_project - User Interface
+
+🤝<h4> Connect with me: <h4>
+<a href="https://www.linkedin.com/in/piyara-perera-79a635279/">
+   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:jappp020618@gmail.com">
+    <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
