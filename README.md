@@ -28,7 +28,7 @@ https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
 https://github.com/shashithenuwara/FDM-MINI_project - User Interface
 
 <summary>
- 📔 GitHub Stats:
+ 📔 **GitHub Stats:**
 </summary>
 <br>
 <p align="center">
@@ -39,6 +39,5 @@ https://github.com/shashithenuwara/FDM-MINI_project - User Interface
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=impx3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impx3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="impx3" /></p>
 </details>
 
