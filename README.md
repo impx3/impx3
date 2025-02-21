@@ -5,7 +5,7 @@
 🌱 I'm currently interested in machine learning.
 
 
-✨ **Languages and Tools**
+✨ **Languages and Tools:**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
