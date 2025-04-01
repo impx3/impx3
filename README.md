@@ -38,8 +38,8 @@
 
 👍**Contributions:**
 
-https://github.com/pramudithamendis/Xpress-Hirely - Payment management
+<a href="https://github.com/pramudithamendis/Xpress-Hirely" target="_blank">Xpress Hirely</a> - Payment management
 
-https://github.com/shashithenuwara/IRWA_Project - Extraction and Preprocessing
+<a href="https://github.com/shashithenuwara/IRWA_Project" target="_blank">Search Engine</a> - Extraction and Preprocessing
 
-https://github.com/shashithenuwara/FDM-MINI_project - User Interface
+<a href="https://github.com/shashithenuwara/FDM-MINI_project" target="_blank">Sleep Disorder Prediction System</a> - User Interface
