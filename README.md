@@ -1,4 +1,4 @@
-👋 Hi, I’m Piyara Perera, a 4th year 1st semester student at SLIIT.
+👋 Hi, I’m Piyara Perera, a 4th year 2nd semester student at SLIIT.
 
 ⚡ I'm pursuing a BSc Honors degree in Information Technology (specialized in Data Science).
 
