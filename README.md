@@ -31,10 +31,10 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a>
 <a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
 
- 📔 **GitHub Stats:**
+ <!--📔 **GitHub Stats:** -->
  
 <!-- <a href="https://github.com/impx3"><img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=impx3&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/></a> -->
- <a href="https://github.com/impx3"><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=impx3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a>
+ <!--<a href="https://github.com/impx3"><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=impx3&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a> -->
 
 👍**Contributions:**
 
