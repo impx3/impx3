@@ -17,6 +17,7 @@
     <td><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></td>
     <td><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></td>
     <td><a href="https://kotlinlang.org" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></a></td>
+    <td><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></td>
   </tr>
  <tr>
     <td><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></td>
@@ -27,7 +28,6 @@
     <td><a href="https://www.python.org" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></td>
-    <td><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></td>
   </tr>
 </table>
 
