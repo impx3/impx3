@@ -1,6 +1,6 @@
-👋 Hi, I’m Piyara Perera, a 4th year 2nd semester student at SLIIT.
+👋 Hi, I’m Piyara Perera, a Data Science Graduate from SLIIT.
 
-⚡ I'm pursuing a BSc Honors degree in Information Technology (specialized in Data Science).
+⚡ I hold a BSc Honors degree in Information Technology (specialized in Data Science).
 
 🌱 I'm currently interested in machine learning.
 
